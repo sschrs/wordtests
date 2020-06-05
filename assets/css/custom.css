@@ -1,0 +1,118 @@
+@media screen and (max-width: 1800px) {
+    .login-title{
+        margin-top: 2rem;
+    }
+    .login-title h1{
+        font-size: 60px;
+    }
+    .login-title small{
+        font-size: 1.05rem;
+    }
+    .test-word{
+        font-size: 50px;
+    }
+}
+
+@media screen and (max-width: 700px){
+    .login-title{
+        margin-top: 1rem;
+    }
+    .login-title h1{
+        font-size: 20px;
+    }
+}
+
+.login-title{
+    width: 100%;
+    z-index: 100;
+    color: white;
+    text-align: center;
+}
+
+.text-teal{
+    color: #009688;
+}
+
+.font-1{font-family: 'Jura', sans-serif;}
+.font-2{font-family: 'Quicksand', sans-serif;}
+.font-3{font-family: 'Pacifico', cursive;}
+
+.profile-avatar{
+    width: 24%;
+    margin-left: 38%;
+    border-radius: 50%;
+}
+
+.username-text{
+    text-align: center;
+    margin-top: 7px;
+}
+
+.score-text{
+    text-align: center;
+}
+
+.score-text i {
+    color: #eec40a;
+}
+
+.profile-links{
+    text-align: center;
+    font-size: .5rem;
+}
+
+.score{
+    color: #eec40a ;
+}
+
+.list-buttons{
+    font-size: 2rem;
+    margin-left: 5px;
+}
+
+.new-button{
+    color: #009688;
+}
+
+.submit-button-lists-add{
+    margin: 5px;
+}
+
+.w-100{
+    width: 100%;
+}
+
+
+
+.m-5{
+    margin: 5px;
+}
+.m-10{
+    margin: 10px;
+}
+.m-20{
+    margin: 20px;
+}
+
+.save-button-50-center{
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 20px;
+}
+
+.back-panel{
+    background-color: white;
+    width: 100%;
+}
+
+.progress-panel{
+    width: 100%;
+    height: 30px;
+    background-color: lightgray;
+}
+
+.progress-trophy{
+    color: #00C292;
+    font-size: 1.3rem;
+}
+
